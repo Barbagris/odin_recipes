@@ -1,0 +1,31 @@
+* {
+    background-color: black;
+    color: grey;
+}
+
+
+h1 {
+    color: orange;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+div{
+    text-align: center;
+}
+
+img.burger {
+    height: 200px;
+    width: auto;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+li {
+    font-size: 15px;
+}
